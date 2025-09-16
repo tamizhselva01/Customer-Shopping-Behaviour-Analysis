@@ -32,4 +32,4 @@ Line Charts → Monthly/seasonal spending trends
 
 Bar Graphs → Popular product categories
 
-Pie Charts → Share of purchases by category
+Pie Charts → gender & payment method
